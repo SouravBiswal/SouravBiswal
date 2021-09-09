@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 📫 Reach me through my email **@brghsouravsbp@gmail.com**
+- 📫 Reach me through my email **brghsouravsbp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
