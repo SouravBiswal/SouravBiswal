@@ -32,7 +32,7 @@
 [![Sourav's github activity graph](https://activity-graph.herokuapp.com/graph?username=SouravBiswal&theme=react-dark&hide_border=true)](https://github.com/SouravBiswal/github-readme-activity-graph)
 <p align="center">
   <a href="https://github.com/SouravBiswal">
-    <img  alt="SouravBiswal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravBiswal&theme=react&hide_border=true"/>
+    <!-- <img  alt="SouravBiswal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravBiswal&theme=react&hide_border=true"/>
   </a>
   
 
