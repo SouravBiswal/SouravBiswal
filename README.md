@@ -11,9 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/_sourav_here_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sourav_here_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourav-biswal-974789211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-biswal-974789211" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16831041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16831041" height="30" width="40" /></a>
 <a href="https://kaggle.com/souravbiswal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="souravbiswal09" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_white_fang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_white_fang_" height="30" width="40" /></a>
 <!---<a href="https://www.codechef.com/users/sourav_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourav_09" height="30" width="40" /></a> --->
 <a href="https://www.hackerrank.com/brghsouravsbp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brghsouravsbp" height="30" width="40" /></a>
 </p>
@@ -29,10 +27,5 @@
 
 <!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswal&" alt="souravbiswal" /></p> --->
 
-[![Sourav's github activity graph](https://activity-graph.herokuapp.com/graph?username=SouravBiswal&theme=react-dark&hide_border=true)](https://github.com/SouravBiswal/github-readme-activity-graph)
-<p align="center">
-  <a href="https://github.com/SouravBiswal">
-    <!-- <img  alt="SouravBiswal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravBiswal&theme=react&hide_border=true"/>
-  </a>
   
 
